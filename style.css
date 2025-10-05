@@ -1,0 +1,40 @@
+#welcome{font-family: Segoe UI, Comic Sans MS;
+  font-size:40px;
+  font-weight:bold;
+  border:2px solid black;
+  background-color:#c3c3ff;
+}
+#desc{font-size:20px;
+color:#826cff}
+
+#alt{font-size:20px;
+  color:#826cff}
+
+
+ul{display:flex;
+justify-content:center;
+gap:50px;}
+
+a{color:#d8005c;
+  font-size:22px;
+  width:10%;
+  height:10%;
+  font-weight:bold;}
+
+#yass{color:#91004f}
+#yasser{color:#91004f}
+
+table{border:5px solid #d8005c;
+  border-collapse: collapse;
+  text-align:center;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+h2{color:#d8005c;
+font-family:times new roman, arial;}
+
+#media{max-width:500px;
+margin: 20px auto;
+padding:20px;
+height:20px;}
